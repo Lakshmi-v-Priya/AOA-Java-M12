@@ -1,5 +1,7 @@
 # EX 2E Pattern Matching using KMP Algorithm.
 
+### Date : 20.08.2026
+
 ### Developed By: Lakshmi Priya V
 
 ### Register Number: 212223220049
